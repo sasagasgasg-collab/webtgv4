@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏆 TIERS GLOBAL 🏆</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <!-- 🔗 Botón Discord -->
+    <a href="https://discord.gg/dVW86WpEUQ" target="_blank">
+        <img src="{{ url_for('static', filename='discord.png') }}" alt="Discord" class="discord-btn">
+    </a>
+
+    <!-- 🏆 Título -->
+    <h1>🏆 TIERS GLOBAL 🏆</h1>
+
+    <!-- 📊 Tabla de ranking -->
+    <table id="ranking-table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Usuario</th>
+                <th>Modalidades</th>
+                <th>Puntos Totales</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script src="{{ url_for('static', filename='skript.js') }}"></script>
+</body>
+</html>
+
