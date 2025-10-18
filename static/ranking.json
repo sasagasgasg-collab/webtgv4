@@ -37,7 +37,8 @@
         },
         "691328576212959248": {
             "discord_name": "_unknown_1414#0",
-            "SWORD": "LT3"
+            "SWORD": "LT3",
+            "UHC": "LT3"
         },
         "826361691594817536": {
             "discord_name": "koharux#0",
@@ -112,7 +113,55 @@
         },
         "1341431829982351391": {
             "discord_name": "lukita22sk#0",
-            "UHC": "LT5"
+            "UHC": "LT3"
+        },
+        "1248727223104438314": {
+            "discord_name": "robertoby1111#0",
+            "UHC": "HT5"
+        },
+        "1426657264822915188": {
+            "discord_name": "potato_091#0",
+            "UHC": "LT3"
+        },
+        "1347208305185128448": {
+            "discord_name": "kleveri_#0",
+            "UHC": "HT5"
+        },
+        "1207410847127838804": {
+            "discord_name": "franlt24k_#0",
+            "UHC": "HT4"
+        },
+        "1305903108194439238": {
+            "discord_name": "dreanking02#0",
+            "UHC": "HT5"
+        },
+        "1048736831828668537": {
+            "discord_name": "stryxc#0",
+            "UHC": "HT4"
+        },
+        "1279990545531539473": {
+            "discord_name": "gatoganson#0",
+            "UHC": "HT4"
+        },
+        "958527196186697749": {
+            "discord_name": "metruenito#0",
+            "UHC": "HT5"
+        },
+        "1312511808564760707": {
+            "discord_name": "tirtui.#0",
+            "UHC": "HT4"
+        },
+        "1275903491193307219": {
+            "discord_name": "zaikolacabravape#0",
+            "UHC": "LT3"
+        },
+        "836271508832649277": {
+            "discord_name": "gimygs#0",
+            "UHC": "HT5"
+        },
+        "924404171204075520": {
+            "discord_name": "mynthz_#0",
+            "UHC": "LT4"
         }
     },
     "ranking_message_id": 1427820795152826430
